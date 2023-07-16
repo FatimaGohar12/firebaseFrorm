@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(207, 197, 217);
+}
+h1{
+  color:  rgb(109, 103, 103);
+
+  
+  font-size: 35px;
+font-family: cursive;
+
+}
+.container{
+  
+  box-shadow: -8px 4px 40px 7px rgba(0,0,0,0.45);
+-webkit-box-shadow: -8px 4px 40px 7px rgba(0,0,0,0.45);
+-moz-box-shadow: -8px 4px 40px 7px rgba(0,0,0,0.45);
+  border: 1px solid rgb(216, 215, 215);
+  height: 552px;
+  padding: 12px 53px;
+  background-color: rgb(245, 238, 238);
+}
